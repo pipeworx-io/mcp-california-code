@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/california-code",
+  "title": "California Code",
+  "description": "California Codes — the text of California statutes, by citation.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/california-code",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-california-code",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/california-code/mcp"
+    }
+  ]
+}
