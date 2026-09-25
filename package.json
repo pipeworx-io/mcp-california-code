@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-california-code",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "California Codes — the text of California statutes, by citation.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-95cded98cf36a92b8d66f53f8bca0f465dcb5f1efb2ee09c2b0ec47af6ad0bb2",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-f91897f174b93d7dd2b0f9d182bea16b3292afe09e3ed01827e5b4ad2843a11c",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }
