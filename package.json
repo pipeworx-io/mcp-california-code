@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-california-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "California Codes — the text of California statutes, by citation.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "california-code",
     "gatewaySlug": "california-code",
-    "sourceHash": "v1-24e8cb76d3c94005aac1c103164204424de323590927647ffbaf7e601fd0821e",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-86b3feb510f149b4df1237f3da342dfcb85072680a652e4c769d7468b8201342",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
